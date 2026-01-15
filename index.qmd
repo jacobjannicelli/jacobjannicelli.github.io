@@ -1,7 +1,17 @@
 ---
-title: "portfolio-site"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Hi, I’m Jacob 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m a Villanova University senior student studying **Management Information Systems** and **Business Analytics** with a minor in **AI / Machine Learning**.  
+I build data-driven tools for **sports analytics**, **optimization**, and **process automation**.
+
+Some things I’ve worked on:
+
+- A **pRating** model that blends Statcast pitch data and Location+ into a holistic pitcher metric  
+- An **NBA roster optimizer** that uses real salary and performance data under a salary-cap constraint  
+- An **AI-assisted intramural scheduling system** that generates schedules, referee assignments, and scoresheets  
+- Coursework projects in ML, BI, and optimization using R, Python, SQL, and OR-Tools  
+
+Use the navigation above to explore my **Projects**, **Experience**, and how to **Contact** me.
