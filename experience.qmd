@@ -4,4 +4,20 @@ title: "Experience"
 
 # Experience
 
-This page will highlight your professional and academic experience.
+## Analytics Associate Intern, Pacific Empire League
+- Supported data processes for a premier summer collegiate baseball team.
+-Communicated statistics directly to team CEO, coaching staff, scouts, and athletes
+- Recorded, calculated, and reported performance statistics for 100+ players weekly.
+- Translated raw data into insightful summaries for team use.
+- Broadcasted player statistics and in-game analyses live on game streams 
+
+## Commissioner, Villanova Intramural Sports
+- Oversee all operations for all intramural leagues and sports.  
+- Build tools to automate scheduling, referee assignments, and reporting.  
+- Lead staff trainings and coordinate with campus recreation leadership.
+
+## Academic & Project Experience
+- Built sports analytics, ML, and optimization projects in R and Python.  
+- Developed dashboards and BI reports for coursework in Business Intelligence.  
+- Worked with APIs, relational databases, and cloud-based tools in multiple classes.
+

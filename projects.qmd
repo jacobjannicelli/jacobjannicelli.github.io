@@ -2,6 +2,54 @@
 title: "Projects"
 ---
 
-# Projects
+## ⚾ pRating: Holistic Pitcher Performance Metric
+**Tools:** R, Statcast, tidyverse, ggplot2  
 
-This page will list your analytics, AI, and sports projects.
+- Built a composite pitcher metric that blends Location+, strikeout ability, contact quality, and run prevention.  
+- Worked with pitch-level Statcast data and custom weights to compare pitchers across seasons.  
+- Visualized changes in performance year-over-year and identified undervalued arms.
+
+📄 **Paper:**  
+[View pRating Metric Write-Up (PDF)](assets/papers/Jannicelli_pRating_Paper.pdf)
+A comprehensive analytical paper detailing the construction, validation, and application of the pRating metric for evaluating MLB pitchers.
+
+
+
+## 🏠 Real Estate Portfolio Optimizer
+**Python Shiny App · Optimization · OR-Tools**
+
+This interactive application optimizes a real estate investment portfolio under budget and constraint settings, allowing users to explore risk–return tradeoffs dynamically.
+
+<iframe
+  src="https://jacobjannicelli.shinyapps.io/zillow_project/"
+  width="100%"
+  height="1200"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>
+
+---
+
+
+## 🏈 NFL GO Route Completion and WR Separation Dashboard
+**R Shiny App**
+
+This app analyzes NFL go-routes against man coverage by quantifying receiver separation and quarterback completed-over-expected (COE) to identify true deep-ball effectiveness.
+
+<iframe
+  src="https://jacobjannicelli.shinyapps.io/train/"
+  width="100%"
+  height="1200"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>
+
+📄 **Paper:**  
+[View NFL Go-Routes Analysis (PDF)](assets/papers/Jannicelli_NFL_Paper.pdf)
+An in-depth analysis of quarterback deep-ball accuracy and wide-receiver separation on go-routes against man coverage using tracking-based metrics.
+
+
+## 📊 Other Analytics & ML Work
+- Business Intelligence dashboards for inventory / retail scenarios  
+- ML models for survey / text analysis using LLMs  
+- Class projects in optimization, visualization, and predictive modeling
+
+

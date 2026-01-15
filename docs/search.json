@@ -4,14 +4,63 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\nThis page will list your analytics, AI, and sports projects."
+    "text": "Tools: R, Statcast, tidyverse, ggplot2\n\nBuilt a composite pitcher metric that blends Location+, strikeout ability, contact quality, and run prevention.\n\nWorked with pitch-level Statcast data and custom weights to compare pitchers across seasons.\n\nVisualized changes in performance year-over-year and identified undervalued arms.\n\n📄 Paper:\nView pRating Metric Write-Up (PDF) A comprehensive analytical paper detailing the construction, validation, and application of the pRating metric for evaluating MLB pitchers."
+  },
+  {
+    "objectID": "projects.html#prating-holistic-pitcher-performance-metric",
+    "href": "projects.html#prating-holistic-pitcher-performance-metric",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: R, Statcast, tidyverse, ggplot2\n\nBuilt a composite pitcher metric that blends Location+, strikeout ability, contact quality, and run prevention.\n\nWorked with pitch-level Statcast data and custom weights to compare pitchers across seasons.\n\nVisualized changes in performance year-over-year and identified undervalued arms.\n\n📄 Paper:\nView pRating Metric Write-Up (PDF) A comprehensive analytical paper detailing the construction, validation, and application of the pRating metric for evaluating MLB pitchers."
+  },
+  {
+    "objectID": "projects.html#real-estate-portfolio-optimizer",
+    "href": "projects.html#real-estate-portfolio-optimizer",
+    "title": "Projects",
+    "section": "🏠 Real Estate Portfolio Optimizer",
+    "text": "🏠 Real Estate Portfolio Optimizer\nPython Shiny App · Optimization · OR-Tools\nThis interactive application optimizes a real estate investment portfolio under budget and constraint settings, allowing users to explore risk–return tradeoffs dynamically."
+  },
+  {
+    "objectID": "projects.html#nfl-go-route-completion-and-wr-separation-dashboard",
+    "href": "projects.html#nfl-go-route-completion-and-wr-separation-dashboard",
+    "title": "Projects",
+    "section": "🏈 NFL GO Route Completion and WR Separation Dashboard",
+    "text": "🏈 NFL GO Route Completion and WR Separation Dashboard\nR Shiny App\nThis app analyzes NFL go-routes against man coverage by quantifying receiver separation and quarterback completed-over-expected (COE) to identify true deep-ball effectiveness.\n\n\n📄 Paper:\nView NFL Go-Routes Analysis (PDF) An in-depth analysis of quarterback deep-ball accuracy and wide-receiver separation on go-routes against man coverage using tracking-based metrics."
+  },
+  {
+    "objectID": "projects.html#other-analytics-ml-work",
+    "href": "projects.html#other-analytics-ml-work",
+    "title": "Projects",
+    "section": "📊 Other Analytics & ML Work",
+    "text": "📊 Other Analytics & ML Work\n\nBusiness Intelligence dashboards for inventory / retail scenarios\n\nML models for survey / text analysis using LLMs\n\nClass projects in optimization, visualization, and predictive modeling"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Experience\nThis page will highlight your professional and academic experience."
+    "text": "Supported data processes for a premier summer collegiate baseball team. -Communicated statistics directly to team CEO, coaching staff, scouts, and athletes\nRecorded, calculated, and reported performance statistics for 100+ players weekly.\nTranslated raw data into insightful summaries for team use.\nBroadcasted player statistics and in-game analyses live on game streams\n\n\n\n\n\nOversee all operations for all intramural leagues and sports.\n\nBuild tools to automate scheduling, referee assignments, and reporting.\n\nLead staff trainings and coordinate with campus recreation leadership.\n\n\n\n\n\nBuilt sports analytics, ML, and optimization projects in R and Python.\n\nDeveloped dashboards and BI reports for coursework in Business Intelligence.\n\nWorked with APIs, relational databases, and cloud-based tools in multiple classes."
+  },
+  {
+    "objectID": "experience.html#analytics-associate-intern-pacific-empire-league",
+    "href": "experience.html#analytics-associate-intern-pacific-empire-league",
+    "title": "Experience",
+    "section": "",
+    "text": "Supported data processes for a premier summer collegiate baseball team. -Communicated statistics directly to team CEO, coaching staff, scouts, and athletes\nRecorded, calculated, and reported performance statistics for 100+ players weekly.\nTranslated raw data into insightful summaries for team use.\nBroadcasted player statistics and in-game analyses live on game streams"
+  },
+  {
+    "objectID": "experience.html#commissioner-villanova-intramural-sports",
+    "href": "experience.html#commissioner-villanova-intramural-sports",
+    "title": "Experience",
+    "section": "",
+    "text": "Oversee all operations for all intramural leagues and sports.\n\nBuild tools to automate scheduling, referee assignments, and reporting.\n\nLead staff trainings and coordinate with campus recreation leadership."
+  },
+  {
+    "objectID": "experience.html#academic-project-experience",
+    "href": "experience.html#academic-project-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Built sports analytics, ML, and optimization projects in R and Python.\n\nDeveloped dashboards and BI reports for coursework in Business Intelligence.\n\nWorked with APIs, relational databases, and cloud-based tools in multiple classes."
   },
   {
     "objectID": "about.html",
@@ -30,8 +79,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "portfolio-site",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi, I’m Jacob 👋\nI’m a Villanova University senior student studying Management Information Systems and Business Analytics with a minor in AI / Machine Learning.\nI build data-driven tools for sports analytics, optimization, and process automation.\nSome things I’ve worked on:\n\nA pRating model that blends Statcast pitch data and Location+ into a holistic pitcher metric\n\nAn NBA roster optimizer that uses real salary and performance data under a salary-cap constraint\n\nAn AI-assisted intramural scheduling system that generates schedules, referee assignments, and scoresheets\n\nCoursework projects in ML, BI, and optimization using R, Python, SQL, and OR-Tools\n\nUse the navigation above to explore my Projects, Experience, and how to Contact me."
   }
 ]
