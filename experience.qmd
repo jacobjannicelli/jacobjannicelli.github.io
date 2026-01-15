@@ -2,8 +2,6 @@
 title: "Experience"
 ---
 
-# Experience
-
 ## Analytics Associate Intern, Pacific Empire League
 - Supported data processes for a premier summer collegiate baseball team.
 -Communicated statistics directly to team CEO, coaching staff, scouts, and athletes

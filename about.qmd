@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-# About Me
-
 I’m Jacob Jannicelli, a student at Villanova University studying MIS, Business Analytics, and AI / ML.  
 I’m especially interested in using data and optimization to make better decisions in sports and operations.
 

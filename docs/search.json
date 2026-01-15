@@ -39,7 +39,7 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Supported data processes for a premier summer collegiate baseball team. -Communicated statistics directly to team CEO, coaching staff, scouts, and athletes\nRecorded, calculated, and reported performance statistics for 100+ players weekly.\nTranslated raw data into insightful summaries for team use.\nBroadcasted player statistics and in-game analyses live on game streams\n\n\n\n\n\nOversee all operations for all intramural leagues and sports.\n\nBuild tools to automate scheduling, referee assignments, and reporting.\n\nLead staff trainings and coordinate with campus recreation leadership.\n\n\n\n\n\nBuilt sports analytics, ML, and optimization projects in R and Python.\n\nDeveloped dashboards and BI reports for coursework in Business Intelligence.\n\nWorked with APIs, relational databases, and cloud-based tools in multiple classes."
+    "text": "Supported data processes for a premier summer collegiate baseball team. -Communicated statistics directly to team CEO, coaching staff, scouts, and athletes\nRecorded, calculated, and reported performance statistics for 100+ players weekly.\nTranslated raw data into insightful summaries for team use.\nBroadcasted player statistics and in-game analyses live on game streams"
   },
   {
     "objectID": "experience.html#analytics-associate-intern-pacific-empire-league",
@@ -52,29 +52,36 @@
     "objectID": "experience.html#commissioner-villanova-intramural-sports",
     "href": "experience.html#commissioner-villanova-intramural-sports",
     "title": "Experience",
-    "section": "",
-    "text": "Oversee all operations for all intramural leagues and sports.\n\nBuild tools to automate scheduling, referee assignments, and reporting.\n\nLead staff trainings and coordinate with campus recreation leadership."
+    "section": "Commissioner, Villanova Intramural Sports",
+    "text": "Commissioner, Villanova Intramural Sports\n\nOversee all operations for all intramural leagues and sports.\n\nBuild tools to automate scheduling, referee assignments, and reporting.\n\nLead staff trainings and coordinate with campus recreation leadership."
   },
   {
     "objectID": "experience.html#academic-project-experience",
     "href": "experience.html#academic-project-experience",
     "title": "Experience",
-    "section": "",
-    "text": "Built sports analytics, ML, and optimization projects in R and Python.\n\nDeveloped dashboards and BI reports for coursework in Business Intelligence.\n\nWorked with APIs, relational databases, and cloud-based tools in multiple classes."
+    "section": "Academic & Project Experience",
+    "text": "Academic & Project Experience\n\nBuilt sports analytics, ML, and optimization projects in R and Python.\n\nDeveloped dashboards and BI reports for coursework in Business Intelligence.\n\nWorked with APIs, relational databases, and cloud-based tools in multiple classes."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m Jacob Jannicelli, a student at Villanova University studying MIS, Business Analytics, and AI / ML.\nI’m especially interested in using data and optimization to make better decisions in sports and operations.\nOutside of class, I:\n\nWork as Commissioner for Villanova Intramural Sports\n\nBuild side projects in R and Python (sports models, scheduling tools, dashboards)\n\nFollow MLB and NBA analytics closely\n\nI’m always open to talking about internships, research, or collaboration."
+    "text": "I’m Jacob Jannicelli, a student at Villanova University studying MIS, Business Analytics, and AI / ML.\nI’m especially interested in using data and optimization to make better decisions in sports and operations.\nOutside of class, I:\nI’m always open to talking about internships, research, or collaboration."
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About",
+    "section": "Resume",
+    "text": "Resume"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact\nYou can reach me at:\n\nEmail: jajannicelli@gmail.com\n\nLinkedIn: https://linkedin.com/in/jacob-jannicelli"
+    "text": "You can reach me at:\n\nEmail: jajannicelli@gmail.com\n\nLinkedIn: https://linkedin.com/in/jacob-jannicelli"
   },
   {
     "objectID": "index.html",

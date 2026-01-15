@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
-
 You can reach me at:
 
 - **Email:** jajannicelli@gmail.com  
