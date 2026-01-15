@@ -4,14 +4,14 @@ title: "Home"
 
 # Hi, I’m Jacob 👋
 
-I’m a Villanova University senior student studying **Management Information Systems** and **Business Analytics** with a minor in **AI / Machine Learning**.  
+I’m an Honors undergraduate senior at Villanova University studying **Management Information Systems** and **Business Analytics**, with a minor in **AI / Machine Learning**. 
 I build data-driven tools for **sports analytics**, **optimization**, and **process automation**.
 
 Some things I’ve worked on:
 
-- A **pRating** model that blends Statcast pitch data and Location+ into a holistic pitcher metric  
-- An **NBA roster optimizer** that uses real salary and performance data under a salary-cap constraint  
-- An **AI-assisted intramural scheduling system** that generates schedules, referee assignments, and scoresheets  
-- Coursework projects in ML, BI, and optimization using R, Python, SQL, and OR-Tools  
+- A **pRating** model that blends Statcast pitch data and Location+ into a holistic MLB pitcher metric  
+- An **NFL go-route analytics dashboard** measuring WR separation and QB completed-over-expected on deep throws  
+- A **real estate portfolio optimization app** that explores risk–return tradeoffs under budget constraints  
+- Coursework projects in **ML, BI, and optimization** using R, Python, SQL, and OR-Tools  
 
-Use the navigation above to explore my **Projects**, **Experience**, and how to **Contact** me.
+Use the navigation above to explore my **Projects**, **Experience**, and **About** pages.

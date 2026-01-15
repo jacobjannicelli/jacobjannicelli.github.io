@@ -74,13 +74,13 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact\nYou can reach me at:\n\nEmail: jajannicelli@gmail.com\n\nLinkedIn: https://linkedin.com/in/jacob-jannicelli\n\nGitHub: https://github.com/jacobjannicelli"
+    "text": "Contact\nYou can reach me at:\n\nEmail: jajannicelli@gmail.com\n\nLinkedIn: https://linkedin.com/in/jacob-jannicelli"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi, I’m Jacob 👋\nI’m a Villanova University senior student studying Management Information Systems and Business Analytics with a minor in AI / Machine Learning.\nI build data-driven tools for sports analytics, optimization, and process automation.\nSome things I’ve worked on:\n\nA pRating model that blends Statcast pitch data and Location+ into a holistic pitcher metric\n\nAn NBA roster optimizer that uses real salary and performance data under a salary-cap constraint\n\nAn AI-assisted intramural scheduling system that generates schedules, referee assignments, and scoresheets\n\nCoursework projects in ML, BI, and optimization using R, Python, SQL, and OR-Tools\n\nUse the navigation above to explore my Projects, Experience, and how to Contact me."
+    "text": "Hi, I’m Jacob 👋\nI’m an Honors undergraduate senior at Villanova University studying Management Information Systems and Business Analytics, with a minor in AI / Machine Learning. I build data-driven tools for sports analytics, optimization, and process automation.\nSome things I’ve worked on:\n\nA pRating model that blends Statcast pitch data and Location+ into a holistic MLB pitcher metric\n\nAn NFL go-route analytics dashboard measuring WR separation and QB completed-over-expected on deep throws\n\nA real estate portfolio optimization app that explores risk–return tradeoffs under budget constraints\n\nCoursework projects in ML, BI, and optimization using R, Python, SQL, and OR-Tools\n\nUse the navigation above to explore my Projects, Experience, and About pages."
   }
 ]
